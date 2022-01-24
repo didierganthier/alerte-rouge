@@ -9,7 +9,7 @@ function TopComponent(){
                 <Container className="container-top">
                     <Row className="section-top">
                         <Col xs={12} md={6} className="section-top-left">
-                            <img className="img-fluid" src="/assets/mobile.png"/>
+                            <img className="img-fluid" src="/assets/fullsimulator.png" width={500} height={500}/>
                         </Col>
                         <Col xs={12} md={6} className="section-top-right">
                             <div className="plate-image-container"></div>
