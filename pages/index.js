@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import AboutComponent from '../components/AboutComponent'
 import ServiceComponent from '../components/ServiceComponent'
 import TopComponent from '../components/TopComponent'
 
@@ -20,6 +21,7 @@ export default function Home() {
       <main>
         <TopComponent/>
         <ServiceComponent/>
+        <AboutComponent/>
       </main>
 
       <footer>
