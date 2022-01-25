@@ -14,8 +14,8 @@ function DownloadComponent() {
                 </p>
             </Container>
             <Container className="img-download">
-                <img className="img-fluid" src="/assets/playstore.png"/>
-                <img className="img-fluid" src="/assets/appstore.png"/>
+                <a href="http://onelink.to/53ex9t" target="_blank"><img className="img-fluid" src="/assets/playstore.png"/></a>
+                <a href="http://onelink.to/53ex9t" target="_blank"><img className="img-fluid" src="/assets/appstore.png"/></a>
             </Container>
         </div>
     );

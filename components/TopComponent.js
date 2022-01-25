@@ -20,7 +20,7 @@ function TopComponent(){
                                 Partagez une requête pour aider quelqu'un en difficulté. 
                                 Sauvez des Vies.
                             </p>
-                            <button className="btn btn-custom">Télécharger l'appli</button>
+                            <a href="http://onelink.to/53ex9t"><button className="btn btn-custom">Télécharger l'appli</button></a>
                         </Col>
                     </Row>
                 </Container>

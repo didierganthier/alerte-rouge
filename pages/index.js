@@ -28,7 +28,8 @@ export default function Home() {
         <ContactComponent/>
       </main>
 
-      <footer>
+      <footer className='footer'>
+        <h5>Alerte Rouge &copy; didierganthier</h5>
         <script src="https://unpkg.com/react/umd/react.production.min.js" crossorigin></script>
 
         <script

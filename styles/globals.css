@@ -120,11 +120,12 @@ section-top-right h1 {
 }
 
 .download-container {
-  min-height: 40vh;
+  min-height: 20vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column ;
+  
 }
 
 .img-download {
@@ -135,11 +136,12 @@ section-top-right h1 {
 
 .img-download img {
   width: 150px;
+  margin-bottom: 20px;
 }
 
 /* Contact Component */
 .contact-container-bg {
-  background-color: rgb(201, 144, 144);
+  background-color: rgb(119, 190, 212);
 }
 
 .contact-container {
@@ -152,6 +154,15 @@ section-top-right h1 {
 }
 
 .fa {
-  margin-left: 5px;
+  margin-left: 15px;
   font-size: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(43, 31, 20);
+  min-height: 5vh;
+  color: white;
 }

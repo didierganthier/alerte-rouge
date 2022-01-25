@@ -17,7 +17,7 @@ function AboutComponent() {
                 N'hésitez pas à nous contacter pour plus d'informations.
                 L'équipe Alerte Rouge est composée de passionnés de la santé qui souhaitent apporter de l'aide à des personnes en difficulté.
                 </p>
-                <button className="btn btn-custom">Explorer</button>
+                <a href="http://onelink.to/53ex9t" target="_blank"><button className="btn btn-custom">Explorer</button></a>
             </Col>
         </Row>
       </Container>

@@ -14,9 +14,9 @@ function ContactComponent(){
                             L'équipe Alerte Rouge est composée de passionnés de la santé qui souhaitent apporter de l'aide à des personnes en difficulté.
                         </p>
                         <div>
-                            <span className="fa fa-facebook-square"></span>
-                            <span className="fa fa-instagram"></span>
-                            <span className="fa fa-linkedin-square"></span>
+                            <span className="fa fa-facebook"><img src="assets/facebook.png" width={30} height={30}/></span>
+                            <span className="fa fa-instagram"><img src="assets/instagram.png" width={30} height={30}/></span>
+                            <span className="fa fa-twitter"><img src="assets/twitter.png" width={30} height={30}/></span>
                         </div>
                     </Col>
                     <Col xs={12} md={3}>
