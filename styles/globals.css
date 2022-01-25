@@ -85,6 +85,7 @@ section-top-right h1 {
 .btn-custom:hover {
   background-color: white;
   color: tomato;
+  border-color: lightcoral;
 }
 
 /*Service Component*/
