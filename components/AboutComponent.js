@@ -13,9 +13,10 @@ function AboutComponent() {
                 <h2>Alerte Rouge</h2>
                 <b>Alerte Rouge est une application faite pour vous.</b>
                 <p>
-                Notre équipe travaille constamment pour vous fournir une application qui vous permet de sauver des vies.
-                N'hésitez pas à nous contacter pour plus d'informations.
-                L'équipe Alerte Rouge est composée de passionnés de la santé qui souhaitent apporter de l'aide à des personnes en difficulté.
+                Nous Sommes une entreprise technologique à but non lucratif, évoluant dans le secteur médical plus précisément dans le don de sang. 
+                Nous offrons la possibilité à des personnes en nécessité de faire une requête de sang pour leur proche,
+                à d'autres de répondre à une requête, et de gérer ses dons de sang aux donneurs réguliers et volontaires.
+                Notre objectif c'est de pourvoir donner un outil assez interessant et puissant permetant de dinamiser le don de sang.
                 </p>
                 <a href="http://onelink.to/53ex9t" target="_blank"><button className="btn btn-custom">Explorer</button></a>
             </Col>

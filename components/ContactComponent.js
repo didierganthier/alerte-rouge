@@ -9,9 +9,9 @@ function ContactComponent(){
                     <Col xs={12} md={6}>
                         <h1>Contactez Nous</h1>
                         <p>
-                            Alerte Rouge est une application faite pour vous. Notre équipe travaille constamment pour vous fournir une application qui vous permet de sauver des vies.
-                            N'hésitez pas à nous contacter pour plus d'informations.
-                            L'équipe Alerte Rouge est composée de passionnés de la santé qui souhaitent apporter de l'aide à des personnes en difficulté.
+                            N'hésitez pas à nous contacter si vous avez des questions, appelez le +50931077373. 
+                            ou ecrivez a l'adresse: contact@alerterouge.org 
+                            L'équipe Alerte Rouge est disponible pour vous servir.
                         </p>
                         <div>
                             <span className="fa fa-facebook"><img src="assets/facebook.png" width={30} height={30}/></span>
