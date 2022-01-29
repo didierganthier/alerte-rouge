@@ -13,10 +13,11 @@ function ContactComponent(){
                             ou ecrivez a l'adresse: contact@alerterouge.org 
                             L'équipe Alerte Rouge est disponible pour vous servir.
                         </p>
-                        <div>
-                            <span className="fa fa-facebook"><img src="assets/facebook.png" width={30} height={30}/></span>
-                            <span className="fa fa-instagram"><img src="assets/instagram.png" width={30} height={30}/></span>
-                            <span className="fa fa-twitter"><img src="assets/twitter.png" width={30} height={30}/></span>
+                        <div> 
+                        
+                          <a href= "https://www.facebook.com/profile.php?id=100075500118346"><span className="fa fa-facebook"> <img src="assets/facebook.png" width={30} height={30}/></span></a> 
+                            <a href= "https://www.instagram.com/alerterougeht/"> <span className="fa fa-instagram"><img src="assets/instagram.png" width={30} height={30}/></span></a>
+                            <a href="https://twitter.com/alerterougeht"><span className="fa fa-twitter"><img src="assets/twitter.png" width={30} height={30}/></span> </a> 
                         </div>
                     </Col>
                     <Col xs={12} md={3}>
