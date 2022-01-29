@@ -6,7 +6,7 @@ function ContactComponent(){
         <div className="contact-container-bg">
             <Container className="contact-container">
                 <Row>
-                    <Col xs={17} md={6}>
+                    <Col xs={12} md={7}>
                         <h1>Contactez Nous</h1>
                         <p>
                           N'hésitez pas à nous contacter si vous avez des questions, ou des suggestions
@@ -25,7 +25,7 @@ function ContactComponent(){
 
                 </Row>
                 <Row>
-                    <Col xs={14} >
+                    <Col xs={8} md={10}>
                         <b>Liens Utiles</b>
                         <br/>
                         <br/>

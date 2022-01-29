@@ -11,7 +11,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Alerte Rouge</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/alerterougelogo.ico" />
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
