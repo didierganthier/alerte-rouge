@@ -12,7 +12,7 @@ function AboutComponent() {
             <Col xs={12} md={6} className="about-details">
                 <h2>Alerte Rouge</h2>
                 <b>Alerte Rouge est une application faite pour vous.</b>
-                <p>
+                <p align="justify">
                 Nous Sommes une entreprise technologique à but non lucratif, évoluant dans le secteur médical plus précisément dans le don de sang. 
                 Nous offrons la possibilité à des personnes en nécessité de faire une requête de sang pour leur proche,
                 à d'autres de répondre à une requête, et de gérer ses dons de sang aux donneurs réguliers et volontaires.

@@ -8,7 +8,7 @@ function ContactComponent(){
                 <Row>
                     <Col xs={12} md={7}>
                         <h1>Contactez Nous</h1>
-                        <p>
+                        <p align="justify">
                           N'hésitez pas à nous contacter si vous avez des questions, ou des suggestions
                           Contactez-nous <b>+50931077373 </b> ou par email: <b>contact@alerterouge.org </b> <br/>
                             L'équipe Alerte Rouge sera toujours disponible pour vous servir.

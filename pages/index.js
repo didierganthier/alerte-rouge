@@ -29,7 +29,7 @@ export default function Home() {
       </main>
 
       <footer className='footer'>
-        <h5>Alerte Rouge &copy; didierganthier</h5>
+        <h5> &copy; Alerte Rouge, 2022.</h5>
         <script src="https://unpkg.com/react/umd/react.production.min.js" crossorigin></script>
 
         <script

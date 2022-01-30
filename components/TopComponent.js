@@ -16,7 +16,7 @@ function TopComponent(){
                             <h6>Alerte Rouge</h6>
                             <h2>Sauvez des Vies</h2>
                             <h1>Alerte Rouge</h1>
-                            <p>Faites un don de sang pour sauver quelqu'un en difficulté. 
+                            <p align="justify">Faites un don de sang pour sauver quelqu'un en difficulté. 
                                 Partagez une requête pour aider quelqu'un en difficulté. 
                                 Sauvez des Vies.
                             </p>
