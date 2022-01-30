@@ -29,9 +29,9 @@ function ContactComponent(){
                         <b>Liens Utiles</b>
                         <br/>
                         <br/>
-                        <h6>Formulaire</h6>
-                        <h6>Planifier un Don</h6>
-                        <h6>Passer le test d'eligibilite</h6>
+                        <a href="https://docs.google.com/document/d/1NyEL4i-E5GBue69W9goH20Cqo8rpIaQ1OcsnKFimkZc/edit" target="blank"h6>Formulaire</a><br/>
+                        <a href="https://docs.google.com/document/d/1NyEL4i-E5GBue69W9goH20Cqo8rpIaQ1OcsnKFimkZc/edit" target="blank"h6>Planifier un Don</a>
+                        <a href="https://docs.google.com/document/d/1NyEL4i-E5GBue69W9goH20Cqo8rpIaQ1OcsnKFimkZc/edit" target="blank"h6>Passer le test d'eligibilite</a>
                     </Col>
     
                 </Row>
