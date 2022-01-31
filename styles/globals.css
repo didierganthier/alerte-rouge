@@ -22,7 +22,7 @@ a {
 
 /* Background */
 .background {
-  background-image: url('../public/assets/bg.jpg');
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/alerterouge-3595c.appspot.com/o/bg.jpg?alt=media&token=31c8f793-da5c-48d8-a71c-f939fae9cac9');
   background-size: cover;
   height: 100vh;
   width: 100vw;
